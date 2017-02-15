@@ -15,7 +15,8 @@ public class SimpleGitHub {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Hello GItHub!");
+        System.out.println("Hello GitHub!");
+        System.out.println("Yes I did it");
         
     }
     
